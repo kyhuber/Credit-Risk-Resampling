@@ -1,4 +1,4 @@
-# Credit_Risk_Resampling
+# Credit Risk Resampling
 
 This app evaluates the creditworthiness of borrowers for loans. First, the app reads in lending data from a CSV file. Next, the data is fit with a logistic regression model, which is used to calculate accuracy scores and generate a confusion matrix. Finally, the app resamples data from the regression model and draws a comparison between the oversample data.
 
@@ -31,4 +31,4 @@ The Credit Risk Resampling App was written by Kyle Huber in March 2022.
 
 ---
 
-# Credit_Risk_Resampling
+# Credit Risk Resampling
